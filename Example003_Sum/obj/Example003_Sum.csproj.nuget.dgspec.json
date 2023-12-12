@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example003_Sum\\Example003_Sum.csproj": {}
+    "H:\\Учеба\\GB\\GBпрактика1\\examples\\Example003_Sum\\Example003_Sum.csproj": {}
   },
   "projects": {
-    "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example003_Sum\\Example003_Sum.csproj": {
+    "H:\\Учеба\\GB\\GBпрактика1\\examples\\Example003_Sum\\Example003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example003_Sum\\Example003_Sum.csproj",
+        "projectUniqueName": "H:\\Учеба\\GB\\GBпрактика1\\examples\\Example003_Sum\\Example003_Sum.csproj",
         "projectName": "Example003_Sum",
-        "projectPath": "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example003_Sum\\Example003_Sum.csproj",
+        "projectPath": "H:\\Учеба\\GB\\GBпрактика1\\examples\\Example003_Sum\\Example003_Sum.csproj",
         "packagesPath": "C:\\Users\\EDWARD\\.nuget\\packages\\",
-        "outputPath": "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example003_Sum\\obj\\",
+        "outputPath": "H:\\Учеба\\GB\\GBпрактика1\\examples\\Example003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EDWARD\\AppData\\Roaming\\NuGet\\NuGet.Config"
