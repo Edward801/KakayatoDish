@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example006_Base\\Example006_Base.csproj": {}
+    "H:\\Учеба\\GB\\GBпрактика1\\examples\\example006_Base\\Example006_Base.csproj": {}
   },
   "projects": {
-    "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example006_Base\\Example006_Base.csproj": {
+    "H:\\Учеба\\GB\\GBпрактика1\\examples\\example006_Base\\Example006_Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example006_Base\\Example006_Base.csproj",
+        "projectUniqueName": "H:\\Учеба\\GB\\GBпрактика1\\examples\\example006_Base\\Example006_Base.csproj",
         "projectName": "Example006_Base",
-        "projectPath": "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example006_Base\\Example006_Base.csproj",
+        "projectPath": "H:\\Учеба\\GB\\GBпрактика1\\examples\\example006_Base\\Example006_Base.csproj",
         "packagesPath": "C:\\Users\\EDWARD\\.nuget\\packages\\",
-        "outputPath": "H:\\Учеба\\GB\\GBпрактика1\\Examples\\Example006_Base\\obj\\",
+        "outputPath": "H:\\Учеба\\GB\\GBпрактика1\\examples\\example006_Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EDWARD\\AppData\\Roaming\\NuGet\\NuGet.Config"
